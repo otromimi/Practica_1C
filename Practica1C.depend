@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525021004 source:d:\uva\metodologia de la programacion\practica1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
