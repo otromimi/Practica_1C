@@ -296,10 +296,10 @@ void get_code_animal(char codigo[]){
 void opcion_incorrecta(){
 
     system("cls");
-    //system("color 4");
+    system("color 4");
     printf("\n\t Valor invalido, intentelo de nuevo.\n\n\n\t");
     system("pause");
-    //system("color 7");
+    system("color 7");
     system("cls");
 }
 
@@ -312,8 +312,8 @@ void opcion_incorrecta(){
 /**************************************************************************/
 void banner(){
 
-    //system("color 2");
-    system("color F0");
+    system("color 2");
+    //system("color F0");
 
     printf("\n\n\n\tBienvenido a la aplicacion ControlZoo\n\n\n\n\n");
 
@@ -335,7 +335,7 @@ void banner(){
     printf("\t                     '\"\"\"         '\"\"\"  '\"\"\"        \n\t");
 
     system("pause");
-    //system("color 7");
+    system("color 7");
 
 }
 
